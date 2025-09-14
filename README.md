@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-
-**Muskan031125/Muskan031125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 A bca student curious about technology , Ai and much more ...
 - 🌱 I’m currently learning  Python and Ai...
 - 👯 I’m looking to collaborate on ...
